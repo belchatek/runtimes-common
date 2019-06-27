@@ -1,5 +1,9 @@
 # FTL Release Notes
 
+
+# Version 0.19.0 - 6/27/2020
+* Update container registry client library (last time it was not updated).
+
 # Version 0.18.0 - 6/15/2020
 * Update container registry client library.
 
